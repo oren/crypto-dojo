@@ -11,3 +11,11 @@ https://github.com/strategicpause/coderdojo-crypto
 
 A way to verify that the person who wrote the message is the one who wrote it.
 It also let us know that the message was not modified. If it did the verification fails.
+
+
+Encrypt a message, create signiture file, decrypt the message, and verify:
+
+```
+npm install
+./encrypt.sh
+```
